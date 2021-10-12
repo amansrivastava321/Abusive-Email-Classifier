@@ -15,3 +15,7 @@ and spoil the positive environment that would lead to more attrition rate and lo
 
 ## Authors
 Aman Srivastava[@amansrivastava321](https://github.com/amansrivastava321)
+
+### link to the web application
+
+https://inapp-email.herokuapp.com/
